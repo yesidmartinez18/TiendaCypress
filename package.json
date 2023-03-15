@@ -1,0 +1,21 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "automatizacion de la tienda ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "tienda"
+  ],
+  "author": "Edwin Martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.4",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "cypress": "^12.8.0"
+  }
+}
